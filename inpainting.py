@@ -1,4 +1,4 @@
-# python opencv_inpainting.py --image examples/example01.png --mask examples/mask01.png
+# python inpainting.py --image examples/example01.png --mask examples/mask01.png
 
 import argparse
 import cv2
